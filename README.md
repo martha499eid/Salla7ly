@@ -1,12 +1,12 @@
-# 📎 Taktaka (تكتكة)
+# 📎 Salla7ly (صلحلي)
 
 ## 📌 Project Overview
 
-Taktaka (تكتكة) is a mobile application designed to make it easier and faster for users to find home maintenance service providers.
+Salla7ly (صلحلي) is a mobile application designed to make it easier and faster for users to find home maintenance service providers.
 
 The idea behind Taktaka comes from a common problem: when people need a home service such as plumbing, electrical work, air conditioning maintenance, or other services, it can be difficult to find a suitable technician quickly. When a technician is found through random or informal sources, the service may be expensive, and there may be uncertainty about the quality and reliability of the technician.
 
-Taktaka aims to solve this problem by providing a platform that connects customers with home service providers in one place, making it easier to find a suitable technician quickly and choose from different available service options at reasonable prices.
+Salla7ly aims to solve this problem by providing a platform that connects customers with home service providers in one place, making it easier to find a suitable technician quickly and choose from different available service options at reasonable prices.
 
 ---
 
@@ -43,7 +43,7 @@ Dr. Susan Mohamed Farhat
 
 ## 📦 Project Scope
 
-Taktaka will provide a range of home maintenance services and features, including:
+Salla7ly will provide a range of home maintenance services and features, including:
 
 ### 🛠️ Home Services
 
