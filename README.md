@@ -124,9 +124,9 @@ Dr. Suzan Mohamed Farahat
 
 ## 10. Project Files & Resources
 
-- [Google Drive - Project Files](https://drive.google.com/drive/folders/1vT2f3pGYwCAvsMlH2JrryfrBpT9rkShj?usp=drive_link)
-- [Figma - UI/UX Design](https://www.figma.com/design/zKp2Q6UsScRHNGK4nXnHb4/final_DEPI?node-id=0-1&t=6cXogenyA79XeziR-1)
-- [Figma - Interactive Prototype](https://www.figma.com/proto/zKp2Q6UsScRHNGK4nXnHb4/final_DEPI?node-id=0-1&t=6cXogenyA79XeziR-1)
+- [Google Drive – Project Files](https://drive.google.com/drive/folders/1vT2f3pGYwCAvsMlH2JrryfrBpT9rkShj?usp=drive_link) – Project documents, presentation files, and related resources.
+- [Figma – UI/UX Design](https://www.figma.com/design/zKp2Q6UsScRHNGK4nXnHb4/final_DEPI?node-id=0-1&t=6cXogenyA79XeziR-1) – Complete application design.
+- [Figma – Interactive Prototype](https://www.figma.com/proto/zKp2Q6UsScRHNGK4nXnHb4/final_DEPI?node-id=0-1&t=6cXogenyA79XeziR-1) – Interactive prototype demonstrating the application flow.
 
 ## 11. Project Goal
 
