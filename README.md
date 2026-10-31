@@ -29,7 +29,7 @@ These KPIs will help assess the platform's performance, identify operational cha
 
 ## 👨‍🏫 Instructor
 
-Dr. Susan Mohamed Farhat
+Dr. Suzan Mohamed Farahat
 
 ## 📁 Project Files & Resources
 
